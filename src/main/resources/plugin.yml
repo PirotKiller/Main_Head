@@ -1,0 +1,7 @@
+name: Main_Head
+version: '${project.version}'
+main: tk.pirot.dev.main_head.Main_Head
+api-version: 1.19
+load: STARTUP
+authors: [ PirotKiller ]
+description: Brain Of The Server
