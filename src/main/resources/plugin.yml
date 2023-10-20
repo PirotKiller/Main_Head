@@ -5,3 +5,8 @@ api-version: 1.19
 load: STARTUP
 authors: [ PirotKiller ]
 description: Brain Of The Server
+commands:
+  bangui:
+    description: Open menu
+    aliases:
+      - bg
